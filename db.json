@@ -1,0 +1,19 @@
+{
+  "shipment" : [
+  {
+    "order_id": "ORD12345",
+    "tracking_number": "TRK987654321",
+    "courier": "JNE",
+    "shipment_status": "IN_TRANSIT",
+    "shipment_date": "2025-04-28"
+  },
+  {
+    "order_id": "ORD12346",
+    "tracking_number": "TRK987654322",
+    "courier": "TIKI",
+    "shipment_status": "DELIVERED",
+    "shipment_date": "2025-04-27"
+  }
+]
+
+}
